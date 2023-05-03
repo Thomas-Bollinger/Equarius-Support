@@ -1,2 +1,5 @@
 # Equarius-Support
-Support page for Equarius: math formula editor
+Thie is the support page for Equarius, math formula editor. This editor is available in App Store (Under preparation).
+Feel free to share your suggestions, requests, bug reports, and any comments from Issues. 
+
+
